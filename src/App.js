@@ -7,6 +7,7 @@ import Homepage from './components/homepage/Homepage.component.jsx';
 function App() {
   return (
     <div>
+      <Homepage />
       Hello World
     </div>
   );
